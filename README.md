@@ -1,6 +1,6 @@
 # Project: Vivid Events
 
-**Vivid Events** is a Laravel-based event management and showcase web application developed for the Advanced Web Programming (CHT2520) module at the University of Huddersfield. This project demonstrates how to create a single-table, database-driven web application using Laravel’s MVC architecture, Blade templating engine, and essential Laravel features like Eloquent ORM and route controllers.
+**Vivid Events** is a Laravel-based event management and showcase web application. This project demonstrates how to create a single-table, database-driven web application using Laravel’s MVC architecture, Blade templating engine, and essential Laravel features like Eloquent ORM and route controllers.
 
 The application simulates a real-world event management company by enabling an administrator to manage a variety of event types. It features a structured and clean interface that adheres to good design practices and usability principles for desktop viewing.
 
